@@ -20,7 +20,7 @@ const tweetsArray = [
     },
     timestamp: "2h ago",
     message:
-      "sometimes. the human presses their noggin against mine. to figure out what i’m thinking. so i just think really hard. about how much i love them. and hope they figure it out",
+      "sometimees. the human presses their noggin against mine. to figure out what i’m thinking. so i just think really hard. about how much i love them. and hope they figure it out",
   },
   {
     user: {
